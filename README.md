@@ -4,4 +4,6 @@ freeCodeCamp Url Shortener challenge
 
 final page: https://fccshort.glitch.me/
 
-Output shorturl in the returned json object can be added to https://fccshort.glitch.me/api/shorturl/(shorturl number)
+Output shorturl in the returned json object can be added to the end of the url.
+for example:
+https://fccshort.glitch.me/api/shorturl/16
